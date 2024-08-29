@@ -1,0 +1,8 @@
+{
+    "nome": "João",
+    "sobrenome": "Silva",
+    "endereco": "Rua das Flores, 123",
+    "cep": "12345-678",
+    "telefone": "11987654321",
+    "email": "joao.silva@example.com"
+  }
