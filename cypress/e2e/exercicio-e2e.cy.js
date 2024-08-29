@@ -48,8 +48,5 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
                 }
             });
         };
-
-        //cy.visit('/produtos');
-        //adicionarProdutoAoCarrinho(0); // Começa com o primeiro produto
     });
 });
