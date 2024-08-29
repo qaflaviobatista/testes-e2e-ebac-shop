@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:open": "npx cypress open",
     "cy:run": "npx cypress run",
@@ -13,10 +14,14 @@
   "repository": {
     "type": "git",
     "url": ""
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 88ab9226916f407c903410bbe780434f52498b01
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "bugs": {
     "url": ""
   },
@@ -26,5 +31,10 @@
   },
   "dependencies": {
     "faker": "^5.5.3"
+=======
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cypress": "^13.6.0"
+>>>>>>> 88ab9226916f407c903410bbe780434f52498b01
   }
 }

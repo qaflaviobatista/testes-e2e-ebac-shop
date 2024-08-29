@@ -8,7 +8,7 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
         Para fazer um pedido de 4 produtos 
         Fazendo a escolha dos produtos
         Adicionando ao carrinho
-        Preenchendo todas opções no checkout
+        Preenchendo todas opções no checkoutclear
         E validando minha compra ao final */
 
     it('Deve selecionar, configurar e inserir 4 produtos no carrinho', () => {
